@@ -27,6 +27,6 @@ In the android part, You have to add the following permission in *AndroidManifes
     
 I have used maual pairing system in order to communicate. I will work on the auto pairing system. When i do, i will update this git. 
 
-I you have any issue, feel free to create issue.
+If you have any issue, feel free to create issue.
 
 Thanks.
